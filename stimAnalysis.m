@@ -1,7 +1,7 @@
 % -------------------------------------------------------------------------------------
 % Purpose: Analyse stim responses and choose appropriate rec. site
 % Author: Sreedhar S Kumar
-% Date: 24.06.2013
+% Date: 27.06.2013
 %--------------------------------------------------------------------------------------
 % MATLAB Version 7.12.0.635 (R2011a)
 % MATLAB License Number: 97144
